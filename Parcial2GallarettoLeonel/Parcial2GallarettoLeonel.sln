@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vista", "Vista\Vista.csproj", "{60990006-4EB8-491B-9FA0-6EF8B7FB0CDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{C40DBCB9-F6A8-4B61-BBC9-469BB92EC1A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controladora", "Controladora\Controladora.csproj", "{ABCBAB27-C59A-47E7-80F9-63D58CB5C1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60990006-4EB8-491B-9FA0-6EF8B7FB0CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60990006-4EB8-491B-9FA0-6EF8B7FB0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60990006-4EB8-491B-9FA0-6EF8B7FB0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60990006-4EB8-491B-9FA0-6EF8B7FB0CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40DBCB9-F6A8-4B61-BBC9-469BB92EC1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40DBCB9-F6A8-4B61-BBC9-469BB92EC1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40DBCB9-F6A8-4B61-BBC9-469BB92EC1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40DBCB9-F6A8-4B61-BBC9-469BB92EC1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCBAB27-C59A-47E7-80F9-63D58CB5C1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCBAB27-C59A-47E7-80F9-63D58CB5C1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCBAB27-C59A-47E7-80F9-63D58CB5C1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCBAB27-C59A-47E7-80F9-63D58CB5C1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5194C3E-5770-4C08-A2E3-5FF291B18A69}
+	EndGlobalSection
+EndGlobal
