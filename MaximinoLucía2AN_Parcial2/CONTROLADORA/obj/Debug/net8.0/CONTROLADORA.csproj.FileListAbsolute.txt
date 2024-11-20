@@ -1,0 +1,17 @@
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\CONTROLADORA.deps.json
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\CONTROLADORA.runtimeconfig.json
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\CONTROLADORA.dll
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\CONTROLADORA.pdb
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\MODELO.dll
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\bin\Debug\net8.0\MODELO.pdb
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.csproj.AssemblyReference.cache
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.AssemblyInfoInputs.cache
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.AssemblyInfo.cs
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLA.0D4DBC74.Up2Date
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.dll
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\refint\CONTROLADORA.dll
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.pdb
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\CONTROLADORA.genruntimeconfig.cache
+C:\Users\54346\Desktop\MaximinoLucía2AN_Parcial2\CONTROLADORA\obj\Debug\net8.0\ref\CONTROLADORA.dll
