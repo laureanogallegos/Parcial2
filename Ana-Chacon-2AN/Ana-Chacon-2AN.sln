@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISTA", "VISTA\VISTA.csproj", "{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELO", "MODELO\MODELO.csproj", "{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLADORA", "CONTROLADORA\CONTROLADORA.csproj", "{BBE93005-F555-4297-8294-BF76F49CBC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE93005-F555-4297-8294-BF76F49CBC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE93005-F555-4297-8294-BF76F49CBC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE93005-F555-4297-8294-BF76F49CBC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE93005-F555-4297-8294-BF76F49CBC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99919C8B-DCA2-43A7-828C-FAC30FF62D2A}
+	EndGlobalSection
+EndGlobal

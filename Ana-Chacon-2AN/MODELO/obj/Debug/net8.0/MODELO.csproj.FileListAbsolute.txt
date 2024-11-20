@@ -1,0 +1,14 @@
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\bin\Debug\net8.0\MODELO.deps.json
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\bin\Debug\net8.0\MODELO.runtimeconfig.json
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\bin\Debug\net8.0\MODELO.dll
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\bin\Debug\net8.0\MODELO.pdb
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.csproj.AssemblyReference.cache
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.AssemblyInfoInputs.cache
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.AssemblyInfo.cs
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.csproj.CoreCompileInputs.cache
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.dll
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\refint\MODELO.dll
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.pdb
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\MODELO.genruntimeconfig.cache
+E:\Usuario\Desktop\Ana-Chacon-2AN\MODELO\obj\Debug\net8.0\ref\MODELO.dll

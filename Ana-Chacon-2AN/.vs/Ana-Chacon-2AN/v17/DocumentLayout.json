@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|solutionrelative:modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\modelo\\migrations\\20241119234249_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|solutionrelative:modelo\\migrations\\20241119234249_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\modelo\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|solutionrelative:modelo\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE93005-F555-4297-8294-BF76F49CBC02}|CONTROLADORA\\CONTROLADORA.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\controladora\\controladorausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE93005-F555-4297-8294-BF76F49CBC02}|CONTROLADORA\\CONTROLADORA.csproj|solutionrelative:controladora\\controladorausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\vista\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|solutionrelative:vista\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\vista\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|solutionrelative:vista\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E91DC1A7-68C7-4557-9CC6-8D6ECD7AE16E}|VISTA\\VISTA.csproj|solutionrelative:vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|e:\\usuario\\desktop\\ana-chacon-2an\\modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6350CB2-8DF3-46BA-B242-F75D79DE02A6}|MODELO\\MODELO.csproj|solutionrelative:modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241119234249_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Migrations\\20241119234249_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MODELO\\Migrations\\20241119234249_InitialCreate.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Migrations\\20241119234249_InitialCreate.cs",
+              "RelativeToolTip": "MODELO\\Migrations\\20241119234249_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:42:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Usuario.cs",
+              "RelativeDocumentMoniker": "VISTA\\Usuario.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VISTA\\Usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:39:02.276Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.Designer.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Usuario.Designer.cs",
+              "RelativeDocumentMoniker": "VISTA\\Usuario.Designer.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Usuario.Designer.cs",
+              "RelativeToolTip": "VISTA\\Usuario.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAIAwwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:38:48.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControladoraUsuario.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\CONTROLADORA\\ControladoraUsuario.cs",
+              "RelativeDocumentMoniker": "CONTROLADORA\\ControladoraUsuario.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\CONTROLADORA\\ControladoraUsuario.cs",
+              "RelativeToolTip": "CONTROLADORA\\ControladoraUsuario.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:44:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grupos.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Grupos.cs",
+              "RelativeDocumentMoniker": "MODELO\\Grupos.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Grupos.cs",
+              "RelativeToolTip": "MODELO\\Grupos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:30:19.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Context.cs",
+              "RelativeDocumentMoniker": "MODELO\\Context.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Context.cs",
+              "RelativeToolTip": "MODELO\\Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:11:26.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Usuarios.cs",
+              "RelativeDocumentMoniker": "MODELO\\Usuarios.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\MODELO\\Usuarios.cs",
+              "RelativeToolTip": "MODELO\\Usuarios.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:02:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Form1.cs",
+              "RelativeDocumentMoniker": "VISTA\\Form1.cs",
+              "ToolTip": "E:\\Usuario\\Desktop\\Ana-Chacon-2AN\\VISTA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VISTA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:01:49.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
