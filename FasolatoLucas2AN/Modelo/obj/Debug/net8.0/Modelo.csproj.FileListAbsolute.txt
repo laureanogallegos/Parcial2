@@ -1,0 +1,14 @@
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\fasol\source\repos\FasolatoLucas2AN\Modelo\obj\Debug\net8.0\ref\Modelo.dll

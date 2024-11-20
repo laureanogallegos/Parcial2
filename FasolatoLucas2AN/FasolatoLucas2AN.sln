@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "FasolatoLucas2AN\Vista.csproj", "{955A2A6D-C655-4D95-A6EB-5FA4A8F0FDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{C465CF45-140B-4FEF-8CF6-A49D6D14DE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{D003475F-5D7D-4307-851E-4F9F6E9FFF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955A2A6D-C655-4D95-A6EB-5FA4A8F0FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955A2A6D-C655-4D95-A6EB-5FA4A8F0FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955A2A6D-C655-4D95-A6EB-5FA4A8F0FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955A2A6D-C655-4D95-A6EB-5FA4A8F0FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C465CF45-140B-4FEF-8CF6-A49D6D14DE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C465CF45-140B-4FEF-8CF6-A49D6D14DE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C465CF45-140B-4FEF-8CF6-A49D6D14DE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C465CF45-140B-4FEF-8CF6-A49D6D14DE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D003475F-5D7D-4307-851E-4F9F6E9FFF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D003475F-5D7D-4307-851E-4F9F6E9FFF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D003475F-5D7D-4307-851E-4F9F6E9FFF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D003475F-5D7D-4307-851E-4F9F6E9FFF61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EABD6866-ABB7-4489-A165-C0D87D35E5F7}
+	EndGlobalSection
+EndGlobal
