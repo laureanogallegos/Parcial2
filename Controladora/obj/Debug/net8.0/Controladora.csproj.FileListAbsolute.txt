@@ -1,0 +1,16 @@
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\fcalandra\source\repos\Parcial_Calandra_19-11-24\Controladora\obj\Debug\net8.0\Controladora.sourcelink.json
