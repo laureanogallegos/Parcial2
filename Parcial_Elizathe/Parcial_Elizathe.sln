@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{0656CA41-E8A8-42CA-8C64-D3FF485E638D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{C8B32FD9-F9FE-408C-B243-F249F90B6936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{1ECD0852-AB87-44DD-B834-4141379EF1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0656CA41-E8A8-42CA-8C64-D3FF485E638D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0656CA41-E8A8-42CA-8C64-D3FF485E638D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0656CA41-E8A8-42CA-8C64-D3FF485E638D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0656CA41-E8A8-42CA-8C64-D3FF485E638D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B32FD9-F9FE-408C-B243-F249F90B6936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B32FD9-F9FE-408C-B243-F249F90B6936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B32FD9-F9FE-408C-B243-F249F90B6936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B32FD9-F9FE-408C-B243-F249F90B6936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECD0852-AB87-44DD-B834-4141379EF1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECD0852-AB87-44DD-B834-4141379EF1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECD0852-AB87-44DD-B834-4141379EF1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECD0852-AB87-44DD-B834-4141379EF1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832F3662-6E34-4E21-A2BE-A806131B0FDB}
+	EndGlobalSection
+EndGlobal
