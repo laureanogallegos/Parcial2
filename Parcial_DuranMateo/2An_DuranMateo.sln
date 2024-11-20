@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Parcial_DuranMateo\Vista.csproj", "{4318C08F-15DD-4CBD-A0AA-E4FD70465721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{33F03A13-98F2-4052-8392-91AF5B2D4FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Constructor\Controladora.csproj", "{991EF981-69BE-4859-8BD9-4B16AF42FB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4318C08F-15DD-4CBD-A0AA-E4FD70465721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4318C08F-15DD-4CBD-A0AA-E4FD70465721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4318C08F-15DD-4CBD-A0AA-E4FD70465721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4318C08F-15DD-4CBD-A0AA-E4FD70465721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F03A13-98F2-4052-8392-91AF5B2D4FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F03A13-98F2-4052-8392-91AF5B2D4FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F03A13-98F2-4052-8392-91AF5B2D4FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F03A13-98F2-4052-8392-91AF5B2D4FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991EF981-69BE-4859-8BD9-4B16AF42FB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991EF981-69BE-4859-8BD9-4B16AF42FB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991EF981-69BE-4859-8BD9-4B16AF42FB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991EF981-69BE-4859-8BD9-4B16AF42FB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8D8E27-C451-4B30-8A58-8261473CC0F7}
+	EndGlobalSection
+EndGlobal
