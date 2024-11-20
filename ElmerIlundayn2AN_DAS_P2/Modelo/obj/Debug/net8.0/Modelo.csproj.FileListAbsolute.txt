@@ -1,0 +1,14 @@
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\eilundayn\source\repos\ElmerIlundayn2AN_DAS_P2\Modelo\obj\Debug\net8.0\ref\Modelo.dll
