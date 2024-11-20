@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "JonathanKohan2AN\Vista.csproj", "{3504DEA9-5E68-40C8-B662-23E61237337A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{7C780795-FA23-482D-AD48-D98131034350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{788F7C3E-835F-437D-BDA5-C77C11E37442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3504DEA9-5E68-40C8-B662-23E61237337A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3504DEA9-5E68-40C8-B662-23E61237337A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3504DEA9-5E68-40C8-B662-23E61237337A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3504DEA9-5E68-40C8-B662-23E61237337A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C780795-FA23-482D-AD48-D98131034350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C780795-FA23-482D-AD48-D98131034350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C780795-FA23-482D-AD48-D98131034350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C780795-FA23-482D-AD48-D98131034350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788F7C3E-835F-437D-BDA5-C77C11E37442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788F7C3E-835F-437D-BDA5-C77C11E37442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788F7C3E-835F-437D-BDA5-C77C11E37442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788F7C3E-835F-437D-BDA5-C77C11E37442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A4BEDD-C8F7-4A17-AEA7-AC402AFA29FC}
+	EndGlobalSection
+EndGlobal
