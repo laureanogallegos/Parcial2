@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FmW2GlEj0Do=",
+  "dgSpecHash": "Tj5enBL3NEY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Navegador\\source\\repos\\Parcial_DuranMateo\\Modelo\\Modelo.csproj",
+  "projectFilePath": "C:\\Users\\Navegador\\Source\\Repos\\Parcial2\\Parcial_DuranMateo\\Modelo\\Modelo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Navegador\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Navegador\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
