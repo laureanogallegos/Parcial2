@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{2B54D45A-BB61-4466-AA8B-C204A77CB015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{35B4C6BB-0438-4919-8870-15EE76A88C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{3670420A-068E-4DF0-BDC2-BE1515DD95EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B54D45A-BB61-4466-AA8B-C204A77CB015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B54D45A-BB61-4466-AA8B-C204A77CB015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B54D45A-BB61-4466-AA8B-C204A77CB015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B54D45A-BB61-4466-AA8B-C204A77CB015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B4C6BB-0438-4919-8870-15EE76A88C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B4C6BB-0438-4919-8870-15EE76A88C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B4C6BB-0438-4919-8870-15EE76A88C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B4C6BB-0438-4919-8870-15EE76A88C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3670420A-068E-4DF0-BDC2-BE1515DD95EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3670420A-068E-4DF0-BDC2-BE1515DD95EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3670420A-068E-4DF0-BDC2-BE1515DD95EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3670420A-068E-4DF0-BDC2-BE1515DD95EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91B531F-8D4B-404D-ACA4-56D6B529021B}
+	EndGlobalSection
+EndGlobal

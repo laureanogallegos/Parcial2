@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\grupousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\grupousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670420A-068E-4DF0-BDC2-BE1515DD95EB}|Controladora\\Controladora.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\controladora\\controladorausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3670420A-068E-4DF0-BDC2-BE1515DD95EB}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladorausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|solutionrelative:modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670420A-068E-4DF0-BDC2-BE1515DD95EB}|Controladora\\Controladora.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\controladora\\controladoragrupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3670420A-068E-4DF0-BDC2-BE1515DD95EB}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoragrupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\grupousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\grupousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\modelo\\grupousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|solutionrelative:modelo\\grupousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\modelo\\modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35B4C6BB-0438-4919-8870-15EE76A88C68}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|c:\\users\\navegador\\source\\repos\\figueiras-manuel-2an\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B54D45A-BB61-4466-AA8B-C204A77CB015}|Vista\\Vista.csproj|solutionrelative:vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Program.cs",
+              "RelativeDocumentMoniker": "Vista\\Program.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Program.cs",
+              "RelativeToolTip": "Vista\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Vista\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Usuarios.cs",
+              "RelativeToolTip": "Vista\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:19:48.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Vista\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:08:17.583Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:43:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrupoUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\GrupoUsuarios.cs",
+              "RelativeDocumentMoniker": "Vista\\GrupoUsuarios.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\GrupoUsuarios.cs",
+              "RelativeToolTip": "Vista\\GrupoUsuarios.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:46:03.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GrupoUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\GrupoUsuarios.cs",
+              "RelativeDocumentMoniker": "Vista\\GrupoUsuarios.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\GrupoUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\GrupoUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:41:29.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControladoraUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Controladora\\ControladoraUsuarios.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraUsuarios.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Controladora\\ControladoraUsuarios.cs",
+              "RelativeToolTip": "Controladora\\ControladoraUsuarios.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:15:10.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrupoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\GrupoUsuario.cs",
+              "RelativeDocumentMoniker": "Modelo\\GrupoUsuario.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\GrupoUsuario.cs",
+              "RelativeToolTip": "Modelo\\GrupoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:43:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControladoraGrupos.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Controladora\\ControladoraGrupos.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraGrupos.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Controladora\\ControladoraGrupos.cs",
+              "RelativeToolTip": "Controladora\\ControladoraGrupos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:30:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modelo",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\Modelo.csproj",
+              "RelativeDocumentMoniker": "Modelo\\Modelo.csproj",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Modelo\\Modelo.csproj",
+              "RelativeToolTip": "Modelo\\Modelo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T22:11:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Menu.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Figueiras-Manuel-2AN\\Vista\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:01:31.398Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
