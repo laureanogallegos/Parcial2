@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{D38BFB46-EF96-49AC-B1D8-FEA51C0F9F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{E6421365-1A17-40AC-882A-62391AFF0F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{1ACBD8AE-61DF-4740-A7B0-15950E5D5277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38BFB46-EF96-49AC-B1D8-FEA51C0F9F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38BFB46-EF96-49AC-B1D8-FEA51C0F9F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38BFB46-EF96-49AC-B1D8-FEA51C0F9F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38BFB46-EF96-49AC-B1D8-FEA51C0F9F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6421365-1A17-40AC-882A-62391AFF0F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6421365-1A17-40AC-882A-62391AFF0F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6421365-1A17-40AC-882A-62391AFF0F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6421365-1A17-40AC-882A-62391AFF0F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACBD8AE-61DF-4740-A7B0-15950E5D5277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACBD8AE-61DF-4740-A7B0-15950E5D5277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACBD8AE-61DF-4740-A7B0-15950E5D5277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACBD8AE-61DF-4740-A7B0-15950E5D5277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7AEEB37-673C-49FD-A030-E55AE9F67BAE}
+	EndGlobalSection
+EndGlobal
