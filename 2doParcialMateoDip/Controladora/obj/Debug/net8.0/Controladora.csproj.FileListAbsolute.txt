@@ -1,0 +1,17 @@
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\mateo\source\repos\2doParcialMateoDip\Controladora\obj\Debug\net8.0\ref\Controladora.dll
