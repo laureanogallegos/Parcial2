@@ -1,0 +1,14 @@
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Controladora\obj\Debug\net8.0\ref\Controladora.dll

@@ -1,0 +1,5 @@
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Cejas Pablo 2AN\obj\Debug\net8.0-windows\Cejas Pablo 2AN.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Cejas Pablo 2AN\obj\Debug\net8.0-windows\Cejas Pablo 2AN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Cejas Pablo 2AN\obj\Debug\net8.0-windows\Cejas Pablo 2AN.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Cejas Pablo 2AN\obj\Debug\net8.0-windows\Cejas Pablo 2AN.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Cejas Pablo 2AN\Cejas Pablo 2AN\obj\Debug\net8.0-windows\Cejas Pablo 2AN.csproj.CoreCompileInputs.cache
